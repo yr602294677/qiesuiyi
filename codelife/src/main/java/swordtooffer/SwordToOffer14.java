@@ -9,7 +9,7 @@ package swordtooffer;
 public class SwordToOffer14 {
 
   /**
-   * 分情况讨论 对于2<=n<=58,
+   * 分情况讨论 对于2<=n<=58
    * 若n<=3,且最少将绳子切做两段，因此返回n-1
    * 若n>3，看余数
    *      余数为0返回3^x,
